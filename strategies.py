@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import logging
+=======
++import logging
+>>>>>>> 9df0e1a875e9e3c7249fcf4a2abf2e41c5d19e4d
 from typing import *
 import time
 
